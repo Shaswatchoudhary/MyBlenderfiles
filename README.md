@@ -23,7 +23,17 @@ This project showcases a 3D model of a Rubik's Cube created using Blender. The a
 
 To view and interact with the project, follow these steps:
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Shaswatchoudhary/MyBlenderfiles.git
-   ```
+1.  Clone this repository:
+
+    ```bash
+    git clone https://github.com/Shaswatchoudhary/MyBlenderfiles.git
+
+    ```
+
+2.  Open the project in Blender (make sure you have Blender installed). 🖱️💻
+
+3.Open the .blend file to explore the model and animations in detail. 🔍📂
+
+## License
+
+This project is licensed under the MIT License, which allows for free use and modification! 📝✨ For more details, please see the LICENSE file. 📄🔒
