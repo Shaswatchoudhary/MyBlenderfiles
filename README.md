@@ -1,39 +1,77 @@
-# Blender Rubik's Cube Project
+# Blender 3D Projects – Rubik's Cube & Perfume Denver
+![Perfume Bottle](./assets/perfume.png)
 
-## Overview
+![Rubik's Cube](./assets/cube..png)
 
-This project showcases a 3D model of a Rubik's Cube created using Blender. The aim is to explore the capabilities of Blender in 3D modeling, animation, and rendering while also providing a fun and interactive representation of this classic puzzle.
 
-## Features
+# Overview
 
-- **3D Modeling**: A detailed, accurate representation of a Rubik's Cube.
-- **Animation**: Basic animations demonstrating the rotation and movement of the cube.
-- **Materials and Textures**: Use of different materials and textures to enhance the visual appeal.
-- **Lighting**: Implementation of realistic lighting to create depth and shadows.
+This repository showcases two 3D modeling projects created using Blender:
 
-## Skills Learned
+Rubik's Cube – A detailed, animated representation of the classic puzzle.
 
-- **Blender Basics**: Familiarity with Blender's interface and tools for 3D modeling.
-- **Mesh Creation**: Techniques for creating and manipulating mesh objects.
-- **Animation Techniques**: Keyframe animation and timing for smooth movements.
-- **Material and Texture Application**: Applying and customizing materials for realistic effects.
-- **Lighting Techniques**: Understanding how to use different light sources to enhance a scene.
+Perfume Bottle (Denver) – A realistic 3D model of a perfume bottle exploring materials, textures, and lighting.
 
-## Getting Started
+These projects highlight Blender's capabilities in 3D modeling, animation, and rendering, while providing visually engaging and interactive models.
 
-To view and interact with the project, follow these steps:
+# Features
 
-1.  Clone this repository:
+# Rubik's Cube
 
-    ```bash
-    git clone https://github.com/Shaswatchoudhary/MyBlenderfiles.git
+3D Modeling: Accurate cube geometry with proper proportions.
 
-    ```
+Animation: Rotations demonstrating the cube's mechanics.
 
-2.  Open the project in Blender (make sure you have Blender installed). 🖱️💻
+Materials & Textures: Colorful cube faces with realistic surface appearance.
 
-3.Open the .blend file to explore the model and animations in detail. 🔍📂
+Lighting: Depth and shadows for realistic rendering.
 
-## License
+# Perfume Bottle (Denver)
 
-This project is licensed under the MIT License, which allows for free use and modification! 📝✨ For more details, please see the LICENSE file. 📄🔒
+3D Modeling: Detailed bottle design with elegant curves and geometry.
+
+Materials & Textures: Glass transparency, reflective surfaces, and label textures.
+
+Lighting & Rendering: Realistic lighting setup to enhance reflections and shadows.
+
+# Skills Learned
+
+Blender interface & navigation
+
+Mesh creation & modification techniques
+
+Keyframe animation for smooth motion
+
+Applying materials, textures, and reflections
+
+Lighting setup for realistic rendering
+
+Images / Preview
+Rubik's Cube
+
+![Rubik's Cube](./assets/cube.png)
+
+
+
+Perfume Bottle (Denver)
+![Perfume Bottle](./assets/perfume.png)
+
+
+
+Getting Started
+
+To view and interact with these projects:
+
+# Clone the repository:
+
+git clone https://github.com/Shaswatchoudhary/MyBlenderfiles.git
+
+
+Open the project in Blender (ensure Blender is installed). 🖱️💻
+
+Open the .blend files to explore the models, materials, textures, and animations in detail. 🔍📂
+
+# License
+
+This project is licensed under the MIT License, allowing free use, modification, and distribution. 📝✨
+For details, see the LICENSE file in the repository. 📄🔒
